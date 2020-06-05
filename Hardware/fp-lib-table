@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Connectors EC")(type KiCad)(uri "C:/Users/Diego Armadillo/Documents/Footprints/Connectors.pretty")(options "")(descr ""))
+  (lib (name "Converters EC")(type KiCad)(uri "C:/Users/Diego Armadillo/Documents/Footprints/Converters.pretty")(options "")(descr ""))
+)

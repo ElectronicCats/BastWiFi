@@ -260,7 +260,7 @@ U 1 1 5EA55443
 P 7495 5395
 F 0 "P1" H 7602 6262 50  0000 C CNN
 F 1 "USB_C_Plug_USB2.0" H 7602 6171 50  0000 C CNN
-F 2 "" H 7645 5395 50  0001 C CNN
+F 2 "Connectors EC:C393939" H 7645 5395 50  0001 C CNN
 F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 7645 5395 50  0001 C CNN
 	1    7495 5395
 	1    0    0    -1  

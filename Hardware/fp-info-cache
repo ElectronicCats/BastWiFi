@@ -1,4 +1,4 @@
-18348717595097717
+18375746014525174
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -46864,6 +46864,119 @@ MesurementPoint Square SMDPad 5mmx10mm
 0
 1
 1
+Connectors EC
+79523141
+WA-BCPH SMT Battery Holder Battery Type:2016,2020,2025,2032 500/Reel
+
+0
+3
+2
+Connectors EC
+662104130822
+
+
+0
+6
+6
+Connectors EC
+662104145021
+WR-MPC3 3.00mm Male Single Row SMT Angled Header SMT Fitting Nail Clip, 4 Pins
+
+0
+6
+6
+Connectors EC
+662110145021
+WR-MPC3 3.00mm Male Single Row SMT Angled Header SMT Fitting Nail Clip, 10 Pins
+
+0
+12
+12
+Connectors EC
+662112145021
+WR-MPC3 3.00mm Male Single Row SMT Angled Header SMT Fitting Nail Clip, 12 Pins
+
+0
+14
+14
+Connectors EC
+629105150521
+<b>629105150521</b><p>
+WR-COM_USB_Micro Type B_Horizontal_SMT Micro Type B Horizontal SMT - 3A current at Pin1 & Pin 5 - with Pegs and THT shielding Pins  - T&R Packaging
+
+0
+9
+6
+Connectors EC
+AUDIO-JACK-TRRS-SMD
+
+
+0
+6
+6
+Connectors EC
+C46394
+
+
+0
+6
+5
+Connectors EC
+C393939
+
+
+0
+18
+9
+Connectors EC
+ISO7816
+
+
+0
+9
+8
+Connectors EC
+MOLEX_1661
+
+
+0
+3
+2
+Connectors EC
+SEWALLI
+
+
+0
+1
+1
+Connectors EC
+SEWALLI_renew
+
+
+0
+187
+1
+Connectors EC
+U254051N4BH806
+U254-051N-4BH806-2
+Connector
+0
+9
+6
+Connectors EC
+UJ3AH4TH
+UJ3-AH-4-TH-1
+Connector
+0
+11
+11
+Connectors EC
+usb-PCB
+
+
+0
+4
+4
 Converter_ACDC
 Converter_ACDC_CUI_PBO-3-Sxx_THT_Vertical
 ACDC-Converter, 3W, CUI PBO-3, THT https://www.cui.com/product/resource/pbo-3.pdf
@@ -47424,6 +47537,13 @@ https://power.murata.com/data/power/oki-78sr.pdf
 0
 3
 3
+Converters EC
+LM2596DC-DC
+
+
+0
+4
+4
 Crystal
 Crystal_AT310_D3.0mm_L10.0mm_Horizontal
 Crystal THT AT310 10.0mm-10.5mm length 3.0mm diameter http://www.cinetech.com.tw/upload/2011/04/20110401165201.pdf

@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "C:\\Users\\Diego Armadillo\\Desktop\\Bast-ESP32-S2\\Hardware\\BastWiFi.sch")
-    (date "02/06/2020 0:48:31")
+    (date "05/06/2020 14:46:01")
     (tool "Eeschema (5.1.6)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -45,6 +45,7 @@
       (tstamp 5EA53B09))
     (comp (ref P1)
       (value USB_C_Plug_USB2.0)
+      (footprint "Connectors EC:C393939")
       (datasheet https://www.usb.org/sites/default/files/documents/usb_type-c.zip)
       (libsource (lib Connector) (part USB_C_Plug_USB2.0) (description "USB 2.0-only Type-C Plug connector"))
       (sheetpath (names /) (tstamps /))
