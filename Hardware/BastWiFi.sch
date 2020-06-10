@@ -99,17 +99,15 @@ Text Label 980  1125 2    50   ~ 0
 ~RST~
 Text Label 980  1325 2    50   ~ 0
 Aref
-Text Label 980  1525 2    50   ~ 0
-A0
-Text Label 980  1625 2    50   ~ 0
-A1
-Text Label 980  1725 2    50   ~ 0
-A2
-Text Label 980  1825 2    50   ~ 0
-A3
 Text Label 980  1925 2    50   ~ 0
+A1
+Text Label 980  1825 2    50   ~ 0
+A2
+Text Label 980  1725 2    50   ~ 0
+A3
+Text Label 980  1625 2    50   ~ 0
 A4
-Text Label 980  2025 2    50   ~ 0
+Text Label 980  1525 2    50   ~ 0
 A5
 Text Label 980  2125 2    50   ~ 0
 SCK
@@ -1027,4 +1025,6 @@ Text Notes 5270 3395 2    50   ~ 0
 BATTERY CHARGER
 Text Notes 5185 675  2    50   ~ 0
 REGULATOR
+Text Label 980  2025 2    50   ~ 0
+A0
 $EndSCHEMATC
