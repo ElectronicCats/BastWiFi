@@ -1,4 +1,4 @@
-18377337930711693
+18377338023341417
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -46915,13 +46915,6 @@ AUDIO-JACK-TRRS-SMD
 6
 6
 Connectors EC
-C45281
-
-
-0
-0
-0
-Connectors EC
 C46394
 
 
@@ -46935,6 +46928,13 @@ C393939
 0
 18
 9
+Connectors EC
+C455281
+
+
+0
+2
+2
 Connectors EC
 ISO7816
 
