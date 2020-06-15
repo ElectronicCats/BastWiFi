@@ -248,7 +248,8 @@ P 9425 2640
 F 0 "U3" H 9150 3805 50  0000 C CNN
 F 1 "ESP32-S2-WROVER" H 9875 3810 50  0000 C CNN
 F 2 "RF_Module:ESP32-S2-WROVER" H 10175 1490 50  0001 C CNN
-F 3 "https://www.espressif.com/sites/default/files/documentation/esp32-s2-wroom_esp32-s2-wroom-i_datasheet_en.pdf" H 9125 1840 50  0001 C CNN
+F 3 "https://www.mouser.mx/ProductDetail/Espressif-Systems/ESP32-S2-WROVER?qs=GBLSl2AkirtEnBxrL0jqTA%3D%3D" H 9125 1840 50  0001 C CNN
+F 4 "ESP32-S2-WROVER" H 9425 2640 50  0001 C CNN "manf#"
 	1    9425 2640
 	1    0    0    -1  
 $EndComp
@@ -259,7 +260,8 @@ P 7495 5395
 F 0 "P1" H 7602 6262 50  0000 C CNN
 F 1 "USB_C_Plug_USB2.0" H 7602 6171 50  0000 C CNN
 F 2 "Connectors EC:C393939" H 7645 5395 50  0001 C CNN
-F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 7645 5395 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/USB-Connectors_SHOU-HAN-TYPE-C16PIN_C393939.html" H 7645 5395 50  0001 C CNN
+F 4 "TYPE-C16PIN" H 7495 5395 50  0001 C CNN "manf#"
 	1    7495 5395
 	1    0    0    -1  
 $EndComp
@@ -304,7 +306,8 @@ P 5260 2050
 F 0 "U2" H 5260 2392 50  0000 C CNN
 F 1 "AP2112K-3.3" H 5365 2290 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-23-5" H 5260 2375 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/AP2112.pdf" H 5260 2150 50  0001 C CNN
+F 3 "https://www.mouser.mx/ProductDetail/Diodes-Incorporated/AP2112K-33TRG1?qs=%2Fha2pyFadugKN4ES11GMq2snst8wH3yje9KIABR%252BTfzTosnOVDqX4A%3D%3D" H 5260 2150 50  0001 C CNN
+F 4 "AP2112K-3.3TRG1" H 5260 2050 50  0001 C CNN "manf#"
 	1    5260 2050
 	1    0    0    -1  
 $EndComp
@@ -315,7 +318,8 @@ P 4325 4095
 F 0 "U1" H 4095 4360 50  0000 C CNN
 F 1 "MCP73831-3-OT" H 4705 4365 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-23-5" H 4375 3845 50  0001 L CIN
-F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf" H 4175 4045 50  0001 C CNN
+F 3 "https://www.mouser.mx/ProductDetail/Microchip-Technology/MCP73831T-2ACI-OT?qs=%2Fha2pyFadug7ns3NDcZ1%252BguMEttpm87FnqDgwUSDURWu9uo0PeBXyw%3D%3D" H 4175 4045 50  0001 C CNN
+F 4 "MCP73831T-2ACI/OT" H 4325 4095 50  0001 C CNN "manf#"
 	1    4325 4095
 	1    0    0    -1  
 $EndComp
@@ -326,7 +330,8 @@ P 7695 1805
 F 0 "C5" H 7787 1851 50  0000 L CNN
 F 1 "10uF" H 7545 1875 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 7695 1805 50  0001 C CNN
-F 3 "~" H 7695 1805 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/Others_YAGEO-CC0603KRX5R6BB106_C326057.html" H 7695 1805 50  0001 C CNN
+F 4 "CC0603KRX5R6BB106" H 7695 1805 50  0001 C CNN "manf#"
 	1    7695 1805
 	1    0    0    -1  
 $EndComp
@@ -337,7 +342,8 @@ P 9390 5175
 F 0 "SW1" H 9390 5460 50  0000 C CNN
 F 1 "GPIO0" H 9390 5369 50  0000 C CNN
 F 2 "Connectors EC:C455281" H 9390 5375 50  0001 C CNN
-F 3 "~" H 9390 5375 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/New-Arrivals_XUNPU-TS-1088R-02526_C455281.html" H 9390 5375 50  0001 C CNN
+F 4 "TS-1088R-02526" H 9390 5175 50  0001 C CNN "manf#"
 	1    9390 5175
 	1    0    0    -1  
 $EndComp
@@ -361,7 +367,8 @@ P 9390 5730
 F 0 "SW2" H 9390 6015 50  0000 C CNN
 F 1 "RESET" H 9390 5924 50  0000 C CNN
 F 2 "Connectors EC:C455281" H 9390 5930 50  0001 C CNN
-F 3 "~" H 9390 5930 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/New-Arrivals_XUNPU-TS-1088R-02526_C455281.html" H 9390 5930 50  0001 C CNN
+F 4 "TS-1088R-02526" H 9390 5730 50  0001 C CNN "manf#"
 	1    9390 5730
 	1    0    0    -1  
 $EndComp
@@ -391,7 +398,8 @@ P 10715 5350
 F 0 "R8" H 10774 5396 50  0000 L CNN
 F 1 "10K" H 10774 5305 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 10715 5350 50  0001 C CNN
-F 3 "~" H 10715 5350 50  0001 C CNN
+F 3 "https://www.mouser.mx/ProductDetail/ROHM-Semiconductor/SFR03EZPF1002?qs=sGAEpiMZZMtlubZbdhIBIIR71ikvQRXL3s99k%2FjVgiA%3D" H 10715 5350 50  0001 C CNN
+F 4 "SFR03EZPF1002" H 10715 5350 50  0001 C CNN "manf#"
 	1    10715 5350
 	1    0    0    -1  
 $EndComp
@@ -402,7 +410,8 @@ P 10440 5315
 F 0 "R7" H 10499 5361 50  0000 L CNN
 F 1 "10K" H 10255 5315 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 10440 5315 50  0001 C CNN
-F 3 "~" H 10440 5315 50  0001 C CNN
+F 3 "https://www.mouser.mx/ProductDetail/ROHM-Semiconductor/SFR03EZPF1002?qs=sGAEpiMZZMtlubZbdhIBIIR71ikvQRXL3s99k%2FjVgiA%3D" H 10440 5315 50  0001 C CNN
+F 4 "SFR03EZPF1002" H 10440 5315 50  0001 C CNN "manf#"
 	1    10440 5315
 	1    0    0    -1  
 $EndComp
@@ -445,7 +454,8 @@ P 10715 5635
 F 0 "C7" H 10807 5681 50  0000 L CNN
 F 1 "1uF" H 10807 5590 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 10715 5635 50  0001 C CNN
-F 3 "~" H 10715 5635 50  0001 C CNN
+F 3 "https://www.mouser.mx/ProductDetail/Wurth-Elektronik/885012106022?qs=%2Fha2pyFaduggjUC9vDyrNJ4O61U0x5QqpPCq9EfwtOf1CJEQO67jQw%3D%3D" H 10715 5635 50  0001 C CNN
+F 4 "885012106022" H 10715 5635 50  0001 C CNN "manf#"
 	1    10715 5635
 	1    0    0    -1  
 $EndComp
@@ -500,7 +510,8 @@ P 7895 1805
 F 0 "C6" H 7987 1851 50  0000 L CNN
 F 1 "0.1uF" H 7930 1745 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 7895 1805 50  0001 C CNN
-F 3 "~" H 7895 1805 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Walsin-Tech-Corp-0603F104Z160CT_C387984.html" H 7895 1805 50  0001 C CNN
+F 4 "0603F104Z160CT" H 7895 1805 50  0001 C CNN "manf#"
 	1    7895 1805
 	1    0    0    -1  
 $EndComp
@@ -610,7 +621,8 @@ P 8195 4995
 F 0 "R5" V 8130 4935 50  0000 C CNN
 F 1 "5.1K" V 8125 5140 50  0000 C CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 8195 4995 50  0001 C CNN
-F 3 "~" H 8195 4995 50  0001 C CNN
+F 3 "https://www.mouser.mx/ProductDetail/Vishay-Dale/CRCW06035K10FKEAC?qs=sGAEpiMZZMtlubZbdhIBIIZe04wfiaJW4mvAQUcl4N0%3D" H 8195 4995 50  0001 C CNN
+F 4 "CRCW06035K10FKEAC" V 8195 4995 50  0001 C CNN "manf#"
 	1    8195 4995
 	0    1    1    0   
 $EndComp
@@ -621,7 +633,8 @@ P 8195 5095
 F 0 "R6" V 8265 5030 50  0000 C CNN
 F 1 "5.1K" V 8265 5200 50  0000 C CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 8195 5095 50  0001 C CNN
-F 3 "~" H 8195 5095 50  0001 C CNN
+F 3 "https://www.mouser.mx/ProductDetail/Vishay-Dale/CRCW06035K10FKEAC?qs=sGAEpiMZZMtlubZbdhIBIIZe04wfiaJW4mvAQUcl4N0%3D" H 8195 5095 50  0001 C CNN
+F 4 "CRCW06035K10FKEAC" V 8195 5095 50  0001 C CNN "manf#"
 	1    8195 5095
 	0    1    1    0   
 $EndComp
@@ -667,7 +680,8 @@ P 5720 2050
 F 0 "C4" H 5812 2096 50  0000 L CNN
 F 1 "10uF" H 5812 2005 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 5720 2050 50  0001 C CNN
-F 3 "~" H 5720 2050 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/Others_YAGEO-CC0603KRX5R6BB106_C326057.html" H 5720 2050 50  0001 C CNN
+F 4 "CC0603KRX5R6BB106" H 5720 2050 50  0001 C CNN "manf#"
 	1    5720 2050
 	1    0    0    -1  
 $EndComp
@@ -681,7 +695,8 @@ P 4700 2115
 F 0 "C2" H 4525 2125 50  0000 L CNN
 F 1 "10uF" H 4465 2050 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 4700 2115 50  0001 C CNN
-F 3 "~" H 4700 2115 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/Others_YAGEO-CC0603KRX5R6BB106_C326057.html" H 4700 2115 50  0001 C CNN
+F 4 "CC0603KRX5R6BB106" H 4700 2115 50  0001 C CNN "manf#"
 	1    4700 2115
 	1    0    0    -1  
 $EndComp
@@ -692,7 +707,8 @@ P 4960 2150
 F 0 "R4" H 4835 2180 50  0000 L CNN
 F 1 "10K" H 4785 2115 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 4960 2150 50  0001 C CNN
-F 3 "~" H 4960 2150 50  0001 C CNN
+F 3 "https://www.mouser.mx/ProductDetail/ROHM-Semiconductor/SFR03EZPF1002?qs=sGAEpiMZZMtlubZbdhIBIIR71ikvQRXL3s99k%2FjVgiA%3D" H 4960 2150 50  0001 C CNN
+F 4 "SFR03EZPF1002" H 4960 2150 50  0001 C CNN "manf#"
 	1    4960 2150
 	1    0    0    -1  
 $EndComp
@@ -767,7 +783,8 @@ P 3805 4335
 F 0 "R1" H 3864 4381 50  0000 L CNN
 F 1 "2K" H 3864 4290 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 3805 4335 50  0001 C CNN
-F 3 "~" H 3805 4335 50  0001 C CNN
+F 3 "https://www.mouser.mx/ProductDetail/Vishay-Dale/CRCW06032K00FKEAC?qs=sGAEpiMZZMtlubZbdhIBIIZe04wfiaJWgXeS%2Fn31AeQ%3D" H 3805 4335 50  0001 C CNN
+F 4 "CRCW06032K00FKEAC" H 3805 4335 50  0001 C CNN "manf#"
 	1    3805 4335
 	1    0    0    -1  
 $EndComp
@@ -778,7 +795,8 @@ P 4860 4350
 F 0 "R3" H 4919 4396 50  0000 L CNN
 F 1 "1K" H 4919 4305 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 4860 4350 50  0001 C CNN
-F 3 "~" H 4860 4350 50  0001 C CNN
+F 3 "https://www.mouser.mx/ProductDetail/Panasonic/ERJ-3GEYJ102V?qs=66DK8nO8gJBFiTsClorqsA%3D%3D" H 4860 4350 50  0001 C CNN
+F 4 "ERJ-3GEYJ102V" H 4860 4350 50  0001 C CNN "manf#"
 	1    4860 4350
 	1    0    0    -1  
 $EndComp
@@ -811,6 +829,7 @@ F 0 "D2" V 4899 4482 50  0000 R CNN
 F 1 "DONE" V 4808 4482 50  0000 R CNN
 F 2 "Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 4860 4600 50  0001 C CNN
 F 3 "~" H 4860 4600 50  0001 C CNN
+F 4 "" V 4860 4600 50  0001 C CNN "manf#"
 	1    4860 4600
 	0    -1   -1   0   
 $EndComp
@@ -856,7 +875,8 @@ P 5430 4160
 F 0 "C3" H 5522 4206 50  0000 L CNN
 F 1 "10uF" H 5522 4115 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 5430 4160 50  0001 C CNN
-F 3 "~" H 5430 4160 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/Others_YAGEO-CC0603KRX5R6BB106_C326057.html" H 5430 4160 50  0001 C CNN
+F 4 "CC0603KRX5R6BB106" H 5430 4160 50  0001 C CNN "manf#"
 	1    5430 4160
 	1    0    0    -1  
 $EndComp
@@ -878,7 +898,8 @@ P 3265 4185
 F 0 "C1" H 3295 4260 50  0000 L CNN
 F 1 "10uF" H 3315 4115 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 3265 4185 50  0001 C CNN
-F 3 "~" H 3265 4185 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/Others_YAGEO-CC0603KRX5R6BB106_C326057.html" H 3265 4185 50  0001 C CNN
+F 4 "CC0603KRX5R6BB106" H 3265 4185 50  0001 C CNN "manf#"
 	1    3265 4185
 	1    0    0    -1  
 $EndComp
@@ -915,7 +936,8 @@ P 4340 1750
 F 0 "Q1" H 4544 1796 50  0000 L CNN
 F 1 "DMG3415U-7" H 4544 1705 50  0000 L CNN
 F 2 "Package_TO_SOT_SMD:TSOT-23" H 4540 1675 50  0001 L CIN
-F 3 "http://www.vishay.com/docs/70209/70209.pdf" H 4340 1750 50  0001 L CNN
+F 3 "https://www.mouser.mx/ProductDetail/Diodes-Incorporated/DMG3415U-7?qs=%2Fha2pyFaduj%252B8yiSwVhN6u3swdQLoENzjrkBSrNhwAg5xphgkJMLvw%3D%3D" H 4340 1750 50  0001 L CNN
+F 4 "DMG3415U-7" H 4340 1750 50  0001 C CNN "manf#"
 	1    4340 1750
 	1    0    0    -1  
 $EndComp
@@ -926,7 +948,8 @@ P 4240 1950
 F 0 "D1" H 4245 1865 50  0000 C CNN
 F 1 "MBR120" H 4235 2060 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123F" H 4240 1775 50  0001 C CNN
-F 3 "http://www.onsemi.com/pub_link/Collateral/MBR340-D.PDF" H 4240 1950 50  0001 C CNN
+F 3 "https://www.mouser.mx/ProductDetail/ON-Semiconductor/MBR120VLSFT3G?qs=sGAEpiMZZMtQ8nqTKtFS%2FCKUxMvjsmGz%2FCigMfHc%252BQw%3D" H 4240 1950 50  0001 C CNN
+F 4 "MBR120VLSFT3G" H 4240 1950 50  0001 C CNN "manf#"
 	1    4240 1950
 	-1   0    0    1   
 $EndComp
@@ -951,7 +974,8 @@ P 3995 2075
 F 0 "R2" H 3845 2125 50  0000 L CNN
 F 1 "100K" H 3755 2040 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 3995 2075 50  0001 C CNN
-F 3 "~" H 3995 2075 50  0001 C CNN
+F 3 "https://www.mouser.mx/ProductDetail/Vishay-Draloric/RCA0603100KJNEC?qs=DL%2Fp6SVo8Vmly4x%2FMjcyUQ==" H 3995 2075 50  0001 C CNN
+F 4 "RCA0603100KJNEC" H 3995 2075 50  0001 C CNN "manf#"
 	1    3995 2075
 	1    0    0    -1  
 $EndComp
