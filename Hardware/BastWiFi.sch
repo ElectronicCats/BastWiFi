@@ -237,7 +237,8 @@ P 6375 4145
 F 0 "J1" V 6525 4245 50  0000 L CNN
 F 1 "Conn_Battery" H 6425 4045 50  0000 C CNN
 F 2 "Connector_JST:JST_PH_B2B-PH-SM4-TB_1x02-1MP_P2.00mm_Vertical" H 6375 4145 50  0001 C CNN
-F 3 "~" H 6375 4145 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_JST-Sales-America_B2B-PH-SM4-TB-LF-SN_JST-Sales-America-B2B-PH-SM4-TB-LF-SN_C160352.html" H 6375 4145 50  0001 C CNN
+F 4 "B2B-PH-SM4-TB(LF)(SN)" H 6375 4145 50  0001 C CNN "manf#"
 	1    6375 4145
 	0    -1   -1   0   
 $EndComp
