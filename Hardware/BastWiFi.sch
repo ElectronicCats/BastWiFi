@@ -6,7 +6,7 @@ encoding utf-8
 Sheet 1 1
 Title "Bast WiFi Things"
 Date "2020-04-25"
-Rev "1.0 Beta"
+Rev "1.1 Beta"
 Comp "Electronic Cats"
 Comment1 ""
 Comment2 ""
