@@ -576,7 +576,7 @@ Text Label 8825 3140 2    50   ~ 0
 GPIO13
 Text Label 8825 3040 2    50   ~ 0
 GPIO12
-Text Label 8825 2840 2    50   ~ 0
+Text Label 8825 3440 2    50   ~ 0
 GPIO11
 Text Label 8825 2740 2    50   ~ 0
 GPIO10
@@ -597,7 +597,6 @@ NoConn ~ 10025 2840
 NoConn ~ 10025 2940
 NoConn ~ 10025 3040
 NoConn ~ 10025 3140
-NoConn ~ 8825 3440
 NoConn ~ 8825 2940
 $Comp
 L power:GND #PWR0119
@@ -1097,4 +1096,5 @@ Text Notes 1215 3475 2    50   ~ 0
 LED
 Wire Wire Line
 	1290 3880 1505 3880
+NoConn ~ 8825 2840
 $EndSCHEMATC
