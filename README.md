@@ -1,4 +1,4 @@
-# Bast-ESP32-S2
+# BastWiFi
 
 ## License
 Electronic Cats invests time and resources providing this open source design, please support Electronic Cats and open-source hardware by purchasing products from Electronic Cats!
