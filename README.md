@@ -1,6 +1,9 @@
 # BastWiFi
 
 ## License
+
+![OpenSourceLicense](https://github.com/ElectronicCats/AjoloteBoard/raw/master/OpenSourceLicense.png)
+
 Electronic Cats invests time and resources providing this open source design, please support Electronic Cats and open-source hardware by purchasing products from Electronic Cats!
 
 Designed by Electronic Cats.
