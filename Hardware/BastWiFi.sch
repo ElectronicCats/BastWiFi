@@ -97,8 +97,6 @@ Wire Wire Line
 	2130 1125 2180 1125
 Text Label 980  1125 2    50   ~ 0
 ~RST~
-Text Label 980  1325 2    50   ~ 0
-Aref
 Text Label 980  1925 2    50   ~ 0
 A1
 Text Label 980  1825 2    50   ~ 0
@@ -1097,4 +1095,5 @@ LED
 Wire Wire Line
 	1290 3880 1505 3880
 NoConn ~ 8825 2840
+NoConn ~ 980  1325
 $EndSCHEMATC
