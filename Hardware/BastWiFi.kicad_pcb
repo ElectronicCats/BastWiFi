@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 48)
+    (drawings 49)
     (tracks 507)
     (zones 0)
     (modules 37)
@@ -3755,6 +3755,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
+    (model "C:/Users/Diego Armadillo/Desktop/Documentos_EC/Modelos 3d/Bastwf/User Library-S2B-PH-SM4-TB.STEP"
+      (offset (xyz 0 5.5 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 -180))
+    )
   )
 
   (module RF_Module:ESP32-S2-WROVER (layer F.Cu) (tedit 5F2C5BCE) (tstamp 5ED5FCED)
@@ -3894,6 +3899,11 @@
       (rotate (xyz 0 0 0))
     )
     (model "C:/Users/Diego Armadillo/Desktop/Documentos_EC/ElectronicCats-KiCad-Libraries/ESP32-S2-WROVER.STEP"
+      (offset (xyz 0 3.5 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "C:/Users/Diego Armadillo/Desktop/Documentos_EC/Modelos 3d/Bastwf/ESP32-S2-WROVER.STEP"
       (offset (xyz 0 3.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4879,6 +4889,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "C:/Users/Diego Armadillo/Desktop/Documentos_EC/Modelos 3d/Bastwf/HRO_TYPE-C-31-M-12.step"
+      (offset (xyz -4.5 -7 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module "Connectors EC:C455281" (layer F.Cu) (tedit 5EE42036) (tstamp 5EFF61A1)
@@ -4905,6 +4920,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
     )
+    (model "C:/Users/Diego Armadillo/Desktop/Documentos_EC/Modelos 3d/Bastwf/3x4x2 tact button.step"
+      (offset (xyz 0 -0.5 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (module "Connectors EC:C455281" (layer F.Cu) (tedit 5EE42036) (tstamp 5EE47846)
@@ -4927,6 +4947,11 @@
     (pad 1 smd rect (at 4.98 1.4 180) (size 1.05 2) (layers F.Cu F.Paste F.Mask)
       (net 2 GND))
     (model "C:/Users/Diego Armadillo/Desktop/Documentos_EC/3x4x2 tact button.step"
+      (offset (xyz 0 -0.5 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
+    (model "C:/Users/Diego Armadillo/Desktop/Documentos_EC/Modelos 3d/Bastwf/3x4x2 tact button.step"
       (offset (xyz 0 -0.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -5007,6 +5032,12 @@
     )
   )
 
+  (gr_text NC (at 138.38 100.49 90) (layer B.SilkS) (tstamp 5F6E3941)
+    (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+  )
+  (gr_text NC (at 171.53 100.91 90) (layer B.SilkS) (tstamp 5F6E393A)
+    (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+  )
   (gr_text Reset (at 137.2 98.1) (layer F.SilkS) (tstamp 5F0FB247)
     (effects (font (size 0.8 0.8) (thickness 0.12)))
   )
@@ -5021,9 +5052,6 @@
   )
   (gr_text v1.1 (at 186.24 87.48 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (gr_text MISC (at 171.5 100.06 90) (layer B.SilkS) (tstamp 5EE7B94D)
-    (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (gr_text TX (at 168.87 100.7 90) (layer B.SilkS) (tstamp 5EE7B948)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
